@@ -1,2 +1,2 @@
 Hello...
-first day in GitHub
+first day to learn github
